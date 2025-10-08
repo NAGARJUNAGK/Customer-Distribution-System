@@ -42,8 +42,7 @@ Node.js (v16 or above)
 MongoDB (local or cloud via MongoDB Atlas)
 npm
 
-🗂️ Folder Structure
-customer-distribution-system/
+🗂️ customer-distribution-system/
 │
 ├── backend/
 │   ├── models/
