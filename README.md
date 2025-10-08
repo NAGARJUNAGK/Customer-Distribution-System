@@ -82,7 +82,7 @@ Backend distributes customers evenly among agents belonging to that user.
 Users can view assigned customers, delete all customers, or remove individual agents.
 
 📽️ Demo Video
-🎥 Google Drive Link: [Add your demo video link here after uploading]
+🎥 Google Drive Link: https://drive.google.com/drive/folders/1_89nuAbZZc_79jl_6HCF7MeZwvTsWtcV?usp=sharing
 
 👨‍💻 Developer
 
