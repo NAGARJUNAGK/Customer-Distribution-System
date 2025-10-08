@@ -50,7 +50,7 @@ function Customers() {
     <div className="d-flex justify-content-center vw-100 mt-5">
       <div className="container mt-5 col-md-6">
         {/* Header Section */}
-        <div className="d-flex justify-content-between align-items-center mb-4">
+        <div className="d-flex justify-content-between align-items-center">
           <h2 className="text-dark fw-bold me-6">Customers List</h2>
           <Link to="/upload-customers" className="btn btn-primary">
             + Upload Customers
@@ -89,6 +89,7 @@ function Customers() {
           ) : (
             <p className="text-center text-muted">No customers found.</p>
           )}
+          <br /><br />
         </div>
       </div>
     </div>
