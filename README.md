@@ -42,24 +42,6 @@ Node.js (v16 or above)
 MongoDB (local or cloud via MongoDB Atlas)
 npm
 
-🗂️ customer-distribution-system/
-│
-├── backend/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── server.js
-│   └── .env
-│
-├── frontend/
-│   ├── src/
-│   │   ├── pages/
-│   │   ├── components/
-│   │   └── App.js
-│   └── package.json
-│
-└── README.md
-
 🧩 Backend Setup
 
 Navigate to the backend folder:
